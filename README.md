@@ -77,3 +77,14 @@ Python and SQL were used for data analysis, while individual tasks focused on Ta
 
 Conclusion
 The new UI design led to a significant improvement in completion rates. However, it did not significantly reduce repeated steps. These insights can guide future design improvements and targeted client engagement strategies.
+
+Links for the datasets used:
+- Demographic Data: https://github.com/data-bootcamp-v4/lessons/blob/main/5_6_eda_inf_stats_tableau/project/files_for_project/df_final_demo.txt
+- Test Group: https://github.com/data-bootcamp-v4/lessons/blob/main/5_6_eda_inf_stats_tableau/project/files_for_project/df_final_experiment_clients.txt
+- Control Group Part 1: 
+https://github.com/data-bootcamp-v4/lessons/blob/main/5_6_eda_inf_stats_tableau/project/files_for_project/df_final_web_data_pt_1.txt
+- Control Group Part 2:
+https://github.com/data-bootcamp-v4/lessons/blob/main/5_6_eda_inf_stats_tableau/project/files_for_project/df_final_web_data_pt_2.txt
+
+
+Link for the Google Slides Presentation: https://docs.google.com/presentation/d/1wIbC1poVdTNviQEQ2tMvVbMQ8GvfEOXAS7-hUyQV7Dw/edit#slide=id.g20a455cc9cd_0_0
