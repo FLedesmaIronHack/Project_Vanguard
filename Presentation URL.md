@@ -1,0 +1,1 @@
+Link for the Google Slides Presentation: https://docs.google.com/presentation/d/1wIbC1poVdTNviQEQ2tMvVbMQ8GvfEOXAS7-hUyQV7Dw/edit#slide=id.g20a455cc9cd_0_0
